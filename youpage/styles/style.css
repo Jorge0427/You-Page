@@ -1,0 +1,55 @@
+body {
+    background-color:grey;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 16%;
+  }
+
+
+h1 {
+    text-align: center;
+    color: yellowgreen;
+    background-color: black;
+    font-family: Verdana;
+    border: 5px solid whitesmoke;
+}
+
+h2 {
+    text-align: center;
+    color: yellowgreen;
+    background-color: black;
+    font-family: Verdana;
+    border-top: 5px solid whitesmoke;
+    border-bottom: 5px solid whitesmoke;
+}
+
+
+h3 {
+    text-align: center;
+    color: yellowgreen;
+    background-color: black;
+    font-family: Verdana;
+    border-top: 5px solid whitesmoke;
+    border-bottom: 5px solid whitesmoke;
+}
+
+
+p {
+    text-align: center;
+    font-size: large;
+  }
+
+
+ ul {
+    font-size: large;
+  }
+
+ ol {
+    font-size: large;
+  }
+
+
+  
